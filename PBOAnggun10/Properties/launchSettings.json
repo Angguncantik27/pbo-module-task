@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PBOAnggun10": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
